@@ -4,7 +4,7 @@
   "description": "",
   "main": "stringLength.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --coverage",
     "watch": "jest --watch *.js"
   },
   "repository": {
